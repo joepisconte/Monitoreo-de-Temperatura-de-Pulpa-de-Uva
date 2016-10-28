@@ -1,4 +1,4 @@
-## Monitoreo de Temperatura de Pulpa de Uva con Sensores PT100, MAX31865 y el Arduino Mega2260
+## Monitoreo de Temperatura de Pulpa de Uva con Sensores PT100, MAX31865 y el Arduino Mega2560
 
 Proyecto que permite monitorear la temperatura de la pulpa de uva de exportación en túneles de enfrimiento con sensor PT100.
 Los datos de la temperatura se almacenan en una momoria SD como un Datalogger.
