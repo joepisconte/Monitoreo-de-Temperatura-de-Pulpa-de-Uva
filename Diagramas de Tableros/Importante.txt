@@ -1,0 +1,4 @@
+El proyeto contempla 03 Tableros para túneles, 03 Tableros para Cámaras y 01 Tablero Master.
+En el "Tablero de Tuneles" falta dibujar la fuente de alimentación.
+En el "Tablero Master" falta dibujar el módulo adaptador de memoria micro SD.
+Tambien Falta dibujar el Diagrama General de comunicacion entre los 7 tableros.

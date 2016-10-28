@@ -1,0 +1,6 @@
+offset0 = -0.10
+offset1 = -0.10
+offset2 = 0.00
+offset3 = -0.10
+offset4 = -0.10
+offset5 = -0.10

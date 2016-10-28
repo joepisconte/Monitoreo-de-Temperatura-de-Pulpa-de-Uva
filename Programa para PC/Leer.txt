@@ -1,0 +1,5 @@
+Programa compatible con Windows 7 y 8, desarrollado en Visual Basic.
+EL programa busca entre todos los puertos seriales disponibles en la PC hasta encontrar el Tablero Master.
+Si no encuentra el tablero master, muestra un mensaje de error y se cierra.
+
+Nota: El código fuente de este programa se ha perdido.

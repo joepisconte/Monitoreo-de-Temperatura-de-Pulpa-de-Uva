@@ -1,0 +1,6 @@
+offset0 = -0.0 sensor 1
+offset1 = 0.3 sensor 2
+offset2 = 0.0
+offset3 = -0.2
+offset4 = 0.2 sensor 5  
+offset5 = -0.0 sensor 6

@@ -1,0 +1,30 @@
+#######################################
+# Syntax Coloring Map for RTC
+# Datatypes (KEYWORD1)
+#######################################
+Data            KEYWORD1
+RTC             KEYWORD1
+
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+toString        KEYWORD2
+setSeconds      KEYWORD2
+setMinutes      KEYWORD2
+setHour         KEYWORD2
+setTime         KEYWORD2
+setDay          KEYWORD2
+setMonth        KEYWORD2
+setYear         KEYWORD2
+setDate         KEYWORD2
+setDateTime     KEYWORD2
+getData         KEYWORD2
+getTemperature  KEYWORD2
+
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+DST_OFF         LITERAL1
+DST_ON          LITERAL1

@@ -1,0 +1,2 @@
+Programa para Android que permite calibrar los tableros de túneles y cámaras.
+El PIN de emparejamiento de los módulos Bluetooth es: 2427
